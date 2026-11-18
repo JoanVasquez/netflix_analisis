@@ -1,0 +1,61 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in,description
+s1,Movie,Historia ficticia 01,Luis Garcia,"Actor 1, Actriz 4",United States,2/2/2021,2006,PG,82 min,"Comedies, Romantic Movies",Registro ficticio de prueba numero 1.
+s2,Movie,Historia ficticia 02,Marta Lopez,"Actor 2, Actriz 5",Spain,3/3/2022,2007,TV-14,89 min,"Action & Adventure, Thrillers",Registro ficticio de prueba numero 2.
+s3,Movie,Historia ficticia 03,Carlos Reyes,"Actor 3, Actriz 6",Mexico,4/4/2023,2008,R,96 min,Documentaries,Registro ficticio de prueba numero 3.
+s4,Movie,Historia ficticia 04,Sofia Morales,"Actor 4, Actriz 7",Dominican Republic,5/5/2024,2009,TV-MA,103 min,"Children & Family Movies, Comedies",Registro ficticio de prueba numero 4.
+s5,Movie,Historia ficticia 05,Daniel Torres,"Actor 5, Actriz 0",Canada,6/6/2025,2010,PG,110 min,"Dramas, International Movies",Registro ficticio de prueba numero 5.
+s6,TV Show,Historia ficticia 06,Ana Perez,"Actor 6, Actriz 1",Brazil,7/7/2020,2011,TV-14,3 Seasons,"Comedies, Romantic Movies",Registro ficticio de prueba numero 6.
+s7,Movie,Historia ficticia 07,Luis Garcia,"Actor 7, Actriz 2",United States,8/8/2021,2012,R,124 min,"Action & Adventure, Thrillers",Registro ficticio de prueba numero 7.
+s8,Movie,Historia ficticia 08,Marta Lopez,"Actor 0, Actriz 3",Spain,9/9/2022,2013,TV-MA,131 min,Documentaries,Registro ficticio de prueba numero 8.
+s9,Movie,Historia ficticia 09,"Ana Perez, Luis Garcia","Actor 1, Actriz 4",Mexico,10/10/2023,2014,PG,138 min,"Children & Family Movies, Comedies",Registro ficticio de prueba numero 9.
+s10,Movie,Historia ficticia 10,Sofia Morales,"Actor 2, Actriz 5",Dominican Republic,11/11/2024,2015,,145 min,"Dramas, International Movies",Registro ficticio de prueba numero 10.
+s11,Movie,Historia ficticia 11,,"Actor 3, Actriz 6",Canada,12/12/2025,2016,R,77 min,"Comedies, Romantic Movies",Registro ficticio de prueba numero 11.
+s12,TV Show,Historia ficticia 12,Ana Perez,"Actor 4, Actriz 7",Brazil,1/13/2020,2017,TV-MA,1 Seasons,"Action & Adventure, Thrillers",Registro ficticio de prueba numero 12.
+s13,Movie,Historia ficticia 13,Luis Garcia,,United States,2/14/2021,2018,PG,91 min,Documentaries,Registro ficticio de prueba numero 13.
+s14,Movie,Historia ficticia 14,Marta Lopez,"Actor 6, Actriz 1",Spain,,2019,TV-14,98 min,"Children & Family Movies, Comedies",Registro ficticio de prueba numero 14.
+s15,Movie,Historia ficticia 15,Carlos Reyes,"Actor 7, Actriz 2",Mexico,4/16/2023,2020,R,105 min,"Dramas, International Movies",Registro ficticio de prueba numero 15.
+s16,Movie,Historia ficticia 16,Sofia Morales,"Actor 0, Actriz 3",Dominican Republic,5/17/2024,2021,TV-MA,112 min,"Comedies, Romantic Movies",Registro ficticio de prueba numero 16.
+s17,Movie,Historia ficticia 17,Daniel Torres,"Actor 1, Actriz 4",,6/18/2025,2022,PG,119 min,"Action & Adventure, Thrillers",Registro ficticio de prueba numero 17.
+s18,TV Show,Historia ficticia 18,"Ana Perez, Luis Garcia","Actor 2, Actriz 5",Brazil,7/19/2020,2023,TV-14,3 Seasons,Documentaries,Registro ficticio de prueba numero 18.
+s19,Movie,Historia ficticia 19,Luis Garcia,"Actor 3, Actriz 6",United States,8/20/2021,,R,133 min,"Children & Family Movies, Comedies",Registro ficticio de prueba numero 19.
+s20,Movie,Historia ficticia 20,Marta Lopez,"Actor 4, Actriz 7",Spain,9/21/2022,2005,,140 min,"Dramas, International Movies",Registro ficticio de prueba numero 20.
+s21,Movie,Historia ficticia 21,Carlos Reyes,"Actor 5, Actriz 0",Mexico,10/22/2023,2006,PG,147 min,"Comedies, Romantic Movies",Registro ficticio de prueba numero 21.
+s22,Movie,Historia ficticia 22,,"Actor 6, Actriz 1",Dominican Republic,11/23/2024,2007,TV-14,79 min,"Action & Adventure, Thrillers",Registro ficticio de prueba numero 22.
+s23,Movie,Historia ficticia 23,Daniel Torres,"Actor 7, Actriz 2",Canada,12/24/2025,2008,R,86 min,Documentaries,Registro ficticio de prueba numero 23.
+s24,TV Show,Historia ficticia 24,Ana Perez,"Actor 0, Actriz 3",Brazil,1/25/2020,2009,TV-MA,1 Seasons,"Children & Family Movies, Comedies",Registro ficticio de prueba numero 24.
+s25,Movie,Historia ficticia 25,Luis Garcia,"Actor 1, Actriz 4",United States,2/26/2021,2010,PG,100 min,"Dramas, International Movies",Registro ficticio de prueba numero 25.
+s26,Movie,Historia ficticia 26,Marta Lopez,,Spain,3/27/2022,2011,TV-14,107 min,"Comedies, Romantic Movies",Registro ficticio de prueba numero 26.
+s27,Movie,Historia ficticia 27,"Ana Perez, Luis Garcia","Actor 3, Actriz 6",Mexico,4/1/2023,2012,R,114 min,"Action & Adventure, Thrillers",Registro ficticio de prueba numero 27.
+s28,Movie,Historia ficticia 28,Sofia Morales,"Actor 4, Actriz 7",Dominican Republic,,2013,TV-MA,121 min,Documentaries,Registro ficticio de prueba numero 28.
+s29,Movie,Historia ficticia 29,Daniel Torres,"Actor 5, Actriz 0",Canada,6/3/2025,2014,PG,128 min,"Children & Family Movies, Comedies",Registro ficticio de prueba numero 29.
+s30,TV Show,Historia ficticia 30,Ana Perez,"Actor 6, Actriz 1",Brazil,7/4/2020,2015,,3 Seasons,"Dramas, International Movies",Registro ficticio de prueba numero 30.
+s31,Movie,Historia ficticia 31,Luis Garcia,"Actor 7, Actriz 2",United States,8/5/2021,2016,R,142 min,"Comedies, Romantic Movies",Registro ficticio de prueba numero 31.
+s32,Movie,Historia ficticia 32,Marta Lopez,"Actor 0, Actriz 3",Spain,9/6/2022,2017,TV-MA,149 min,"Action & Adventure, Thrillers",Registro ficticio de prueba numero 32.
+s33,Movie,Historia ficticia 33,,"Actor 1, Actriz 4",Mexico,10/7/2023,2018,PG,81 min,Documentaries,Registro ficticio de prueba numero 33.
+s34,Movie,Historia ficticia 34,Sofia Morales,"Actor 2, Actriz 5",,11/8/2024,2019,TV-14,88 min,"Children & Family Movies, Comedies",Registro ficticio de prueba numero 34.
+s35,Movie,Historia ficticia 35,Daniel Torres,"Actor 3, Actriz 6",Canada,12/9/2025,2020,R,95 min,"Dramas, International Movies",Registro ficticio de prueba numero 35.
+s36,TV Show,Historia ficticia 36,"Ana Perez, Luis Garcia","Actor 4, Actriz 7",Brazil,1/10/2020,2021,TV-MA,1 Seasons,"Comedies, Romantic Movies",Registro ficticio de prueba numero 36.
+s37,Movie,Historia ficticia 37,Luis Garcia,"Actor 5, Actriz 0",United States,2/11/2021,2022,PG,109 min,"Action & Adventure, Thrillers",Registro ficticio de prueba numero 37.
+s38,Movie,Historia ficticia 38,Marta Lopez,"Actor 6, Actriz 1",Spain,3/12/2022,,TV-14,116 min,Documentaries,Registro ficticio de prueba numero 38.
+s39,Movie,Historia ficticia 39,Carlos Reyes,,Mexico,4/13/2023,2024,R,123 min,"Children & Family Movies, Comedies",Registro ficticio de prueba numero 39.
+s40,Movie,Historia ficticia 40,Sofia Morales,"Actor 0, Actriz 3",Dominican Republic,5/14/2024,2005,,130 min,"Dramas, International Movies",Registro ficticio de prueba numero 40.
+s41,Movie,Historia ficticia 41,Daniel Torres,"Actor 1, Actriz 4",Canada,6/15/2025,2006,PG,137 min,"Comedies, Romantic Movies",Registro ficticio de prueba numero 41.
+s42,TV Show,Historia ficticia 42,Ana Perez,"Actor 2, Actriz 5",Brazil,,2007,TV-14,3 Seasons,"Action & Adventure, Thrillers",Registro ficticio de prueba numero 42.
+s43,Movie,Historia ficticia 43,Luis Garcia,"Actor 3, Actriz 6",United States,8/17/2021,2008,R,76 min,Documentaries,Registro ficticio de prueba numero 43.
+s44,Movie,Historia ficticia 44,,"Actor 4, Actriz 7",Spain,9/18/2022,2009,TV-MA,83 min,"Children & Family Movies, Comedies",Registro ficticio de prueba numero 44.
+s45,Movie,Historia ficticia 45,"Ana Perez, Luis Garcia","Actor 5, Actriz 0",Mexico,10/19/2023,2010,PG,90 min,"Dramas, International Movies",Registro ficticio de prueba numero 45.
+s46,Movie,Historia ficticia 46,Sofia Morales,"Actor 6, Actriz 1",Dominican Republic,11/20/2024,2011,TV-14,97 min,"Comedies, Romantic Movies",Registro ficticio de prueba numero 46.
+s47,Movie,Historia ficticia 47,Daniel Torres,"Actor 7, Actriz 2",Canada,12/21/2025,2012,R,104 min,"Action & Adventure, Thrillers",Registro ficticio de prueba numero 47.
+s48,TV Show,Historia ficticia 48,Ana Perez,"Actor 0, Actriz 3",Brazil,1/22/2020,2013,TV-MA,1 Seasons,Documentaries,Registro ficticio de prueba numero 48.
+s49,Movie,Historia ficticia 49,Luis Garcia,"Actor 1, Actriz 4",United States,2/23/2021,2014,PG,118 min,"Children & Family Movies, Comedies",Registro ficticio de prueba numero 49.
+s50,Movie,Historia ficticia 50,Marta Lopez,"Actor 2, Actriz 5",Spain,3/24/2022,2015,,125 min,"Dramas, International Movies",Registro ficticio de prueba numero 50.
+s51,Movie,Historia ficticia 51,Carlos Reyes,"Actor 3, Actriz 6",,4/25/2023,2016,R,132 min,"Comedies, Romantic Movies",Registro ficticio de prueba numero 51.
+s52,Movie,Historia ficticia 52,Sofia Morales,,Dominican Republic,5/26/2024,2017,TV-MA,139 min,"Action & Adventure, Thrillers",Registro ficticio de prueba numero 52.
+s53,Movie,Historia ficticia 53,Daniel Torres,"Actor 5, Actriz 0",Canada,6/27/2025,2018,PG,146 min,Documentaries,Registro ficticio de prueba numero 53.
+s54,TV Show,Historia ficticia 54,"Ana Perez, Luis Garcia","Actor 6, Actriz 1",Brazil,7/1/2020,2019,TV-14,3 Seasons,"Children & Family Movies, Comedies",Registro ficticio de prueba numero 54.
+s55,Movie,Historia ficticia 55,,"Actor 7, Actriz 2",United States,8/2/2021,2020,R,85 min,"Dramas, International Movies",Registro ficticio de prueba numero 55.
+s56,Movie,Historia ficticia 56,Marta Lopez,"Actor 0, Actriz 3",Spain,,2021,TV-MA,92 min,"Comedies, Romantic Movies",Registro ficticio de prueba numero 56.
+s57,Movie,Historia ficticia 57,Carlos Reyes,"Actor 1, Actriz 4",Mexico,10/4/2023,,PG,99 min,"Action & Adventure, Thrillers",Registro ficticio de prueba numero 57.
+s58,Movie,Historia ficticia 58,Sofia Morales,"Actor 2, Actriz 5",Dominican Republic,11/5/2024,2023,TV-14,106 min,Documentaries,Registro ficticio de prueba numero 58.
+s59,Movie,Historia ficticia 59,Daniel Torres,"Actor 3, Actriz 6",Canada,12/6/2025,2024,R,113 min,"Children & Family Movies, Comedies",Registro ficticio de prueba numero 59.
+s60,TV Show,Historia ficticia 60,Ana Perez,"Actor 4, Actriz 7",Brazil,1/7/2020,2005,,1 Seasons,"Dramas, International Movies",Registro ficticio de prueba numero 60.
